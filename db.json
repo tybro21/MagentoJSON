@@ -61,68 +61,6 @@
       "sku": "MAG"
     }
   },
-  "428298": {
-    "increment_id ": "428298",
-    "base_discount_amount": "0.0000",
-    "school_code": "WBD",
-    "base_shipping_amount": "3.9500",
-    "tax_amount": "0.6900",
-    "total_qty_ordered": "1.0000",
-    "base_tax_amount": "0.6900",
-    "base_subtotal": "9.7500",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "amanda.lenz9@gmail.com",
-      "firstname": "Amanda",
-      "lastname": "Ridder",
-      "telephone": null,
-      "street": "407 Park Street",
-      "city": "Woodbine",
-      "postcode": "51579",
-      "region_id": "25",
-      "region": "Iowa"
-    },
-    "order_items": {
-      "artwork_id": "81567",
-      "orientation": "h",
-      "sku": "4PK"
-    }
-  },
-  "428301": {
-    "increment_id ": "428301",
-    "base_discount_amount": "0.0000",
-    "school_code": "PINTS2",
-    "base_shipping_amount": "3.9500",
-    "tax_amount": "0.0000",
-    "total_qty_ordered": "1.0000",
-    "base_tax_amount": "0.0000",
-    "base_subtotal": "6.0000",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "Kelldawn4@yahoo.com",
-      "firstname": "Kellie",
-      "lastname": "Gilles",
-      "telephone": null,
-      "street": "14950 E Etowah Rd",
-      "city": "NOBLE",
-      "postcode": "73068",
-      "region_id": "48",
-      "region": "Oklahoma"
-    },
-    "order_items": {
-      "artwork_id": "566544",
-      "orientation": "h",
-      "sku": "MAG"
-    }
-  },
   "428304": {
     "increment_id ": "428304",
     "base_discount_amount": "0.0000",

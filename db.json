@@ -61,37 +61,6 @@
       "sku": "MAG"
     }
   },
-  "428292": {
-    "increment_id ": "428292",
-    "base_discount_amount": "0.0000",
-    "school_code": "DUCEL",
-    "base_shipping_amount": "7.9500",
-    "tax_amount": "1.9600",
-    "total_qty_ordered": "4.0000",
-    "base_tax_amount": "1.9600",
-    "base_subtotal": "30.7500",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "fiori3502@comcast.net",
-      "firstname": "April",
-      "lastname": "Fiori",
-      "telephone": null,
-      "street": "7516 S. Pierce Ct.",
-      "city": "Littleton",
-      "postcode": "80128",
-      "region_id": "13",
-      "region": "Colorado"
-    },
-    "order_items": {
-      "artwork_id": "81558",
-      "orientation": "h",
-      "sku": "MAG"
-    }
-  },
   "428298": {
     "increment_id ": "428298",
     "base_discount_amount": "0.0000",

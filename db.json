@@ -61,37 +61,6 @@
       "sku": "MAG"
     }
   },
-  "428289": {
-    "increment_id ": "428289",
-    "base_discount_amount": "0.0000",
-    "school_code": "PINTS2",
-    "base_shipping_amount": "5.9500",
-    "tax_amount": "0.0000",
-    "total_qty_ordered": "2.0000",
-    "base_tax_amount": "0.0000",
-    "base_subtotal": "21.5000",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "Leggett_twister@yahoo.com",
-      "firstname": "Dianne",
-      "lastname": "Haines",
-      "telephone": null,
-      "street": "6801 132nd Ave SE",
-      "city": "Noble",
-      "postcode": "73068",
-      "region_id": "48",
-      "region": "Oklahoma"
-    },
-    "order_items": {
-      "artwork_id": "569005",
-      "orientation": "h",
-      "sku": "MUG"
-    }
-  },
   "428292": {
     "increment_id ": "428292",
     "base_discount_amount": "0.0000",

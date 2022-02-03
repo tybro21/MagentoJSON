@@ -1022,37 +1022,6 @@
       "sku": "PRINT"
     }
   },
-  "428778": {
-    "increment_id ": "428778",
-    "base_discount_amount": "0.0000",
-    "school_code": null,
-    "base_shipping_amount": "10.9500",
-    "tax_amount": "8.7400",
-    "total_qty_ordered": "9.0000",
-    "base_tax_amount": "8.7400",
-    "base_subtotal": "134.6000",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "Cawsage@gmail.com",
-      "firstname": "Christine",
-      "lastname": "Wells",
-      "telephone": null,
-      "street": "126 Stafford Green Way",
-      "city": "Greenville",
-      "postcode": "29615",
-      "region_id": "54",
-      "region": "South Carolina"
-    },
-    "order_items": {
-      "artwork_id": "81729",
-      "orientation": "v",
-      "sku": "PO"
-    }
-  },
   "428781": {
     "increment_id ": "428781",
     "base_discount_amount": "0.0000",

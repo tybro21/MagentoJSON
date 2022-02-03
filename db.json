@@ -3130,37 +3130,6 @@
       "sku": "SP"
     }
   },
-  "428202": {
-    "increment_id ": "428202",
-    "base_discount_amount": "0.0000",
-    "school_code": null,
-    "base_shipping_amount": "3.9500",
-    "tax_amount": "0.0000",
-    "total_qty_ordered": "1.0000",
-    "base_tax_amount": "0.0000",
-    "base_subtotal": "6.0000",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "TArch1976@yahoo.com",
-      "firstname": "Tracy",
-      "lastname": "Archambeau",
-      "telephone": null,
-      "street": "607 E Crossland St",
-      "city": "Ozark",
-      "postcode": "65721",
-      "region_id": "36",
-      "region": "Missouri"
-    },
-    "order_items": {
-      "artwork_id": "81516",
-      "orientation": "v",
-      "sku": "MAG"
-    }
-  },
   "428208": {
     "increment_id ": "428208",
     "base_discount_amount": "0.0000",

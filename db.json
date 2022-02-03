@@ -2293,37 +2293,6 @@
       "sku": "5NOTE"
     }
   },
-  "428073": {
-    "increment_id ": "428073",
-    "base_discount_amount": "0.0000",
-    "school_code": "Happy",
-    "base_shipping_amount": "8.9500",
-    "tax_amount": "4.0200",
-    "total_qty_ordered": "4.0000",
-    "base_tax_amount": "4.0200",
-    "base_subtotal": "80.5000",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "Lizzie.muino@gmail.com",
-      "firstname": "Elizabeth",
-      "lastname": "Muino",
-      "telephone": null,
-      "street": "13867 West 59th Place",
-      "city": "Arvada",
-      "postcode": "80004",
-      "region_id": "13",
-      "region": "Colorado"
-    },
-    "order_items": {
-      "artwork_id": "489606",
-      "orientation": "h",
-      "sku": "GM"
-    }
-  },
   "428076": {
     "increment_id ": "428076",
     "base_discount_amount": "0.0000",

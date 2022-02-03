@@ -1952,37 +1952,6 @@
       "sku": "4PK"
     }
   },
-  "428034": {
-    "increment_id ": "428034",
-    "base_discount_amount": "0.0000",
-    "school_code": "Happy",
-    "base_shipping_amount": "7.9500",
-    "tax_amount": "2.2500",
-    "total_qty_ordered": "7.0000",
-    "base_tax_amount": "2.2500",
-    "base_subtotal": "42.0000",
-    "student_grade": null,
-    "teacher": null,
-    "student_name": null,
-    "base_price": "0.0000",
-    "school_name": "estore",
-    "info": {
-      "email": "iris.filkins@gmail.com",
-      "firstname": "Iris",
-      "lastname": "Filkins",
-      "telephone": null,
-      "street": "10463 W 54th Place",
-      "city": "Arvada",
-      "postcode": "80002",
-      "region_id": "13",
-      "region": "Colorado"
-    },
-    "order_items": {
-      "artwork_id": "489638",
-      "orientation": "h",
-      "sku": "MAG"
-    }
-  },
   "428037": {
     "increment_id ": "428037",
     "base_discount_amount": "0.0000",
